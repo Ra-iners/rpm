@@ -1,0 +1,5 @@
+{
+ "author": "Rai",
+  "description": "A simple password lock. After installing it will prompt the setup of the keypad, you will need to enter the password you want to use and the direction the redstone should be outputted to",
+  "executeOnInstall": true
+}
